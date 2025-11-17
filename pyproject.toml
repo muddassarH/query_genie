@@ -1,7 +1,8 @@
 [project]
 name = "mcp-sql"
 version = "0.1.0"
-description = "Add your description here"
+description = """Built my first MCP‑powered server application (QueryGenie) that converts natural language into executable PostgreSQL queries. Now anyone can simply say “show me active staff members” and get the right SQL — making databases more accessible.
+hashtag#MCP hashtag#PostgreSQL hashtag#NL2SQL"""
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
